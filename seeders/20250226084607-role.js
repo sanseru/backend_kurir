@@ -28,6 +28,11 @@ module.exports = {
         name: 'Manager', // Role name
         createdAt: new Date(), // Timestamp for creation
         updatedAt: new Date() // Timestamp for update
+      },
+      {
+        name: 'Kurir', // Role name
+        createdAt: new Date(), // Timestamp for creation
+        updatedAt: new Date() // Timestamp for update
       }
     ]);
   },
